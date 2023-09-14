@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aaman\\OneDrive\\Documentos\\ADS\\3° Período\\Programação Orientada a Objetos\\Lista 04\\exercicio1\\exercicio1.csproj": {}
+    "C:\\Users\\aaman\\OneDrive\\Documentos\\GitHub\\poo-ATVs\\Lista 04\\exercicio1\\exercicio1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aaman\\OneDrive\\Documentos\\ADS\\3° Período\\Programação Orientada a Objetos\\Lista 04\\exercicio1\\exercicio1.csproj": {
+    "C:\\Users\\aaman\\OneDrive\\Documentos\\GitHub\\poo-ATVs\\Lista 04\\exercicio1\\exercicio1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aaman\\OneDrive\\Documentos\\ADS\\3° Período\\Programação Orientada a Objetos\\Lista 04\\exercicio1\\exercicio1.csproj",
+        "projectUniqueName": "C:\\Users\\aaman\\OneDrive\\Documentos\\GitHub\\poo-ATVs\\Lista 04\\exercicio1\\exercicio1.csproj",
         "projectName": "exercicio1",
-        "projectPath": "C:\\Users\\aaman\\OneDrive\\Documentos\\ADS\\3° Período\\Programação Orientada a Objetos\\Lista 04\\exercicio1\\exercicio1.csproj",
+        "projectPath": "C:\\Users\\aaman\\OneDrive\\Documentos\\GitHub\\poo-ATVs\\Lista 04\\exercicio1\\exercicio1.csproj",
         "packagesPath": "C:\\Users\\aaman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aaman\\OneDrive\\Documentos\\ADS\\3° Período\\Programação Orientada a Objetos\\Lista 04\\exercicio1\\obj\\",
+        "outputPath": "C:\\Users\\aaman\\OneDrive\\Documentos\\GitHub\\poo-ATVs\\Lista 04\\exercicio1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aaman\\AppData\\Roaming\\NuGet\\NuGet.Config",

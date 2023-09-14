@@ -1,5 +1,6 @@
 ﻿public class GerenciadorDeVoo
 {
+    int teste = 0;
     public int numVoo;
     public DateTime dtVoo;
 

@@ -1,0 +1,15 @@
+C:\Users\aaman\OneDrive\Documentos\ADS\3° Período\Programação Orientada a Objetos\Lista 04\exercicio2\bin\Debug\net7.0\exercicio2.exe
+C:\Users\aaman\OneDrive\Documentos\ADS\3° Período\Programação Orientada a Objetos\Lista 04\exercicio2\bin\Debug\net7.0\exercicio2.deps.json
+C:\Users\aaman\OneDrive\Documentos\ADS\3° Período\Programação Orientada a Objetos\Lista 04\exercicio2\bin\Debug\net7.0\exercicio2.runtimeconfig.json
+C:\Users\aaman\OneDrive\Documentos\ADS\3° Período\Programação Orientada a Objetos\Lista 04\exercicio2\bin\Debug\net7.0\exercicio2.dll
+C:\Users\aaman\OneDrive\Documentos\ADS\3° Período\Programação Orientada a Objetos\Lista 04\exercicio2\bin\Debug\net7.0\exercicio2.pdb
+C:\Users\aaman\OneDrive\Documentos\ADS\3° Período\Programação Orientada a Objetos\Lista 04\exercicio2\obj\Debug\net7.0\exercicio2.csproj.AssemblyReference.cache
+C:\Users\aaman\OneDrive\Documentos\ADS\3° Período\Programação Orientada a Objetos\Lista 04\exercicio2\obj\Debug\net7.0\exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaman\OneDrive\Documentos\ADS\3° Período\Programação Orientada a Objetos\Lista 04\exercicio2\obj\Debug\net7.0\exercicio2.AssemblyInfoInputs.cache
+C:\Users\aaman\OneDrive\Documentos\ADS\3° Período\Programação Orientada a Objetos\Lista 04\exercicio2\obj\Debug\net7.0\exercicio2.AssemblyInfo.cs
+C:\Users\aaman\OneDrive\Documentos\ADS\3° Período\Programação Orientada a Objetos\Lista 04\exercicio2\obj\Debug\net7.0\exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\aaman\OneDrive\Documentos\ADS\3° Período\Programação Orientada a Objetos\Lista 04\exercicio2\obj\Debug\net7.0\exercicio2.dll
+C:\Users\aaman\OneDrive\Documentos\ADS\3° Período\Programação Orientada a Objetos\Lista 04\exercicio2\obj\Debug\net7.0\refint\exercicio2.dll
+C:\Users\aaman\OneDrive\Documentos\ADS\3° Período\Programação Orientada a Objetos\Lista 04\exercicio2\obj\Debug\net7.0\exercicio2.pdb
+C:\Users\aaman\OneDrive\Documentos\ADS\3° Período\Programação Orientada a Objetos\Lista 04\exercicio2\obj\Debug\net7.0\exercicio2.genruntimeconfig.cache
+C:\Users\aaman\OneDrive\Documentos\ADS\3° Período\Programação Orientada a Objetos\Lista 04\exercicio2\obj\Debug\net7.0\ref\exercicio2.dll
